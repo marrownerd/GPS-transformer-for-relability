@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environments
+.venv/
+env/
+venv/
+ENV/
+
+# Data and Models
+data/
+processed/
+models/
+*.pt
+*.pth
+
+# IDE settings
+.vscode/
+.idea/
